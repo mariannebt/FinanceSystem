@@ -1,0 +1,38 @@
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll.config
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll.config
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.DAL\obj\Debug\SistemaFinanceiro.DAL.pdb

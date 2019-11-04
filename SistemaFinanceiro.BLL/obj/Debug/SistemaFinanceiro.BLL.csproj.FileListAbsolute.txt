@@ -1,0 +1,31 @@
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.pdb
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.dll.config
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\USER\Desktop\Marianne\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.BLL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.DAL.dll.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.BLL\obj\Debug\SistemaFinanceiro.BLL.pdb

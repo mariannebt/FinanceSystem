@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.Entity\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.Entity\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\maria\Desktop\dotNet\curso\ProjetoFinanceiro\SistemaFinanceiro\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\bin\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\bin\Debug\SistemaFinanceiro.Entity.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\SistemaFinanceiro\SistemaFinanceiro - Copia\SistemaFinanceiro.Entity\obj\Debug\SistemaFinanceiro.Entity.pdb
